@@ -13,6 +13,6 @@ def input_to_index(user_input)
   converted_input -= 1
 end
 
-def move(board, player, char=x)
+def move(board, player, char=nil)
   board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 end
